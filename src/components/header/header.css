@@ -2,3 +2,11 @@
   font: bold 2.5rem 'Poller One', sans-serif;
   color: gold;
 }
+
+.sw-header__list {
+  list-style: none;
+}
+
+.sw-header__item {
+  font: bold 1.5rem monospace;
+}
